@@ -3,14 +3,21 @@
     <div class="header__logo">
       {{ partial "logo.html" . }}
     </div>
-    {{ if len $.Site.Menus }}
-      {{ partial "mobile-menu.html" . }}
-    {{ end }}
-    {{ if and $.Site.Params.showLanguageSelector (len $.Site.Home.AllTranslations) }}
-      {{ partial "language-menu.html" . }}
-    {{ end }}
+    <div class="header__right">
+      {{ if len $.Site.Menus }}
+        {{ partial "mobile-menu.html" . }}
+      {{ end }}
+      {{ if and $.Site.Params.showLanguageSelector (len $.Site.Home.AllTranslations) }}
+        {{ partial "language-menu.html" . }}
+      {{ end }}
+      <!-- Dark Mode Toggle -->
+      <button id="theme-toggle" class="theme-toggle" aria-label="Toggle dark mode">
+        <i data-lucide="sun" class="theme-icon theme-icon--light"></i>
+        <i data-lucide="moon" class="theme-icon theme-icon--dark"></i>
+      </button>
+    </div>
   </div>
   {{ if len $.Site.Menus }}
     {{ partial "menu.html" . }}
   {{ end }}
-</header>
+</header>>
