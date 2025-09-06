@@ -40,17 +40,17 @@ pagination.pagerSize = 5
 
     [languages.en.menu]
       [[languages.en.menu.main]]
+        identifier = "about"
+        name = "About"
+        url = "/about"
+      [[languages.en.menu.main]]
         identifier = "cv"
-        name = "cv"
+        name = "CV"
         url = "/cv"
       [[languages.en.menu.main]]
         identifier = "research"
-        name = "research"
+        name = "Research"
         url = "/research"
-      [[languages.en.menu.main]]
-        identifier = "terminal-css"
-        name = "terminal-css"
-        url = "/terminal-css"
 
 [module]
   [module.hugoVersion]
