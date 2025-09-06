@@ -17,6 +17,12 @@
   --radius: 0;
 }
 
+body.dark-mode {
+  --background: #202124;
+  --foreground: #eaeaea;
+  --accent: #4de066; /* a slightly different accent for contrast */
+}
+
 html {
   box-sizing: border-box;
 }
