@@ -1,6 +1,6 @@
 +++
 title = "Research"
-date = "2024-01-01"
+date = "2025-09-01"
 author = "John Abascal"
 +++
 
