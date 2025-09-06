@@ -1,7 +1,17 @@
-:root {
+/*  Original
+ :root {
   --background: #1a170f;
   --foreground: #eceae5;
   --accent: #eec35e;
+  --font-size: 1rem;
+  --line-height: 1.54em;
+  --radius: 0;
+} */
+
+:root {
+  --background: #eaeaea;
+  --foreground: #202124;
+  --accent: #4a7c59;
   --font-size: 1rem;
   --line-height: 1.54em;
   --radius: 0;
