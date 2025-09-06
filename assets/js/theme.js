@@ -40,3 +40,53 @@
     });
   }
 })();
+
+// Typing animation for terminal-like elements
+(function() {
+  function typeWriter(element, text, speed = 50) {
+    element.innerHTML = '';
+    let i = 0;
+    
+    function type() {
+      if (i < text.length) {
+        element.innerHTML += text.charAt(i);
+        i++;
+        setTimeout(type, speed);
+      } else {
+        // Add blinking cursor at the end
+        element.innerHTML += '<span class="cursor">_</span>';
+      }
+    }
+    
+    type();
+  }
+
+  // Add typing animation to the logo on page load
+  document.addEventListener('DOMContentLoaded', function() {
+    const logo = document.querySelector('.logo');
+    if (logo) {
+      const originalText = logo.textContent;
+      // Add a small delay before starting the animation
+      setTimeout(() => {
+        typeWriter(logo, originalText, 100);
+      }, 500);
+    }
+
+    // Add subtle typing effect to research interests on scroll
+    const researchSection = document.querySelector('h2');
+    if (researchSection && researchSection.textContent.includes('Research Interests')) {
+      const observer = new IntersectionObserver((entries) => {
+        entries.forEach(entry => {
+          if (entry.isIntersecting) {
+            const originalText = entry.target.textContent;
+            setTimeout(() => {
+              typeWriter(entry.target, originalText, 80);
+            }, 200);
+            observer.unobserve(entry.target);
+          }
+        });
+      });
+      observer.observe(researchSection);
+    }
+  });
+})();

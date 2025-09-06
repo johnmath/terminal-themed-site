@@ -38,6 +38,17 @@
   flex-grow: 1;
 }
 
+/* Blinking cursor animation for typing effect */
+.cursor {
+  animation: blink 1s infinite;
+  color: var(--accent);
+}
+
+@keyframes blink {
+  0%, 50% { opacity: 1; }
+  51%, 100% { opacity: 0; }
+}
+
 /* Mobile responsiveness */
 @media (max-width: 600px) {
   .profile-section {
