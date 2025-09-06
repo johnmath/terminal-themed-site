@@ -1,4 +1,4 @@
-baseurl = "https://johnmath.github.io/"
+baseurl = "https://johnmath.github.io/terminal-themed-site/"
 languageCode = "en-us"
 title = "John Abascal"
 pagination.pagerSize = 5
