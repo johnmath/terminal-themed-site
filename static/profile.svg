@@ -1,0 +1,13 @@
+<svg width="120" height="120" viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .profile-bg { fill: var(--accent); }
+      .profile-stroke { stroke: var(--foreground); fill: none; }
+      .profile-text { fill: var(--background); font-family: monospace; }
+    </style>
+  </defs>
+  <rect width="120" height="120" class="profile-bg" stroke-width="2" style="stroke: var(--foreground);"/>
+  <circle cx="60" cy="45" r="18" class="profile-stroke" stroke-width="2"/>
+  <path d="M30 95 Q60 75 90 95" class="profile-stroke" stroke-width="2"/>
+  <text x="60" y="110" text-anchor="middle" font-size="8" class="profile-text">john</text>
+</svg>
