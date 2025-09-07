@@ -15,8 +15,9 @@
 {{ $menu := resources.Get "js/menu.js" | js.Build }}
 {{ $cp := resources.Get "js/code.js" | js.Build }}
 {{ $theme := resources.Get "js/theme.js" | js.Build }}
+{{ $typing := resources.Get "js/typing.js" | js.Build }}
 
-{{ $bundle := slice $menu $cp $theme | resources.Concat "bundle.js" | resources.Minify }}
+{{ $bundle := slice $menu $cp $theme $typing | resources.Concat "bundle.js" | resources.Minify }}
 
 <script type="text/javascript" src="{{ $bundle.RelPermalink }}"></script>
 

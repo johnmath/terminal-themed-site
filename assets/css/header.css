@@ -39,6 +39,17 @@
   padding: 5px 10px;
 }
 
+/* Typing effect styles */
+#logo-cursor {
+  color: var(--background);
+  font-weight: bold;
+}
+
+@keyframes blink {
+  0%, 50% { opacity: 1; }
+  51%, 100% { opacity: 0; }
+}
+
 /* Theme toggle icon styling */
 .theme-icon {
   width: 20px;

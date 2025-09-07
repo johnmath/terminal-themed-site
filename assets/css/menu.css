@@ -150,7 +150,7 @@
 
 .theme-toggle--mobile {
   background: transparent;
-  border: 1px solid var(--accent);
+  border: none;
   color: var(--foreground);
   cursor: pointer;
   padding: 8px 12px;
