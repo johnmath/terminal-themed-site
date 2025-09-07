@@ -10,11 +10,6 @@
       {{ if and $.Site.Params.showLanguageSelector (len $.Site.Home.AllTranslations) }}
         {{ partial "language-menu.html" . }}
       {{ end }}
-      <!-- Dark Mode Toggle -->
-      <button id="theme-toggle" class="theme-toggle" aria-label="Toggle dark mode">
-        <span class="theme-icon theme-icon--light">☀</span>
-        <span class="theme-icon theme-icon--dark">🌙</span>
-      </button>
     </div>
   </div>
   {{ if len $.Site.Menus }}
