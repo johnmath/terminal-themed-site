@@ -4,7 +4,7 @@ date = "2024-01-01"
 author = "John Abascal"
 +++
 
-```
+```bash
 $ whoami
 john
 
@@ -31,7 +31,7 @@ Currently researching **privacy in deep learning** under the supervision of [Jon
 
 **Research interests:** Differential privacy • Adversarial ML • Privacy attacks • Machine unlearning
 
-```
+```bash
 $ contact --info
 Email: abascal.j@northeastern.edu
 GitHub: github.com/johnmath
