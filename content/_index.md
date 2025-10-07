@@ -20,27 +20,45 @@ drwxr-xr-x  2 john  staff   property-inference/
 $ cat about.txt
 ```
 
-**Computer Science PhD Student** at **Northeastern University**
+# Hi there
 
-Currently researching **privacy in deep learning** under the supervision of [Jonathan Ullman](https://www.ccs.neu.edu/home/jullman/) and [Alina Oprea](https://www.ccs.neu.edu/home/alina/).
+I am a fourth-year Computer Science PhD Student at **Northeastern University**, where I am advised by [Jonathan Ullman](https://www.ccs.neu.edu/home/jullman/) and [Alina Oprea](https://www.ccs.neu.edu/home/alina/). I completed my B.S. in Pure Mathematics at **Florida State University** and conducted my undergraduate honors thesis under the guidance of [Alec Kercheval](https://www.math.fsu.edu/~kercheva/) and [Nathan Crock](https://www.sc.fsu.edu/people?uid=ndc08).
 
-**Recent highlights:**
-- Student Researcher at [Google](https://about.google/) (Fall 2024) 🔒
-- Applied Research Intern at [LinkedIn](https://about.linkedin.com/) (2023-2024)
-- Publications at IEEE S&P, PETS, and more
+## Research Interests
 
-**Research interests:** Differential privacy • Adversarial ML • Privacy attacks • Machine unlearning
+My primary research interest is **privacy in deep learning**. More broadly, I am interested in both theoretical computer science and applied machine learning, including topics such as:
+
+- Differential privacy
+- Adversarial machine learning  
+- Trustworthiness of machine learning algorithms
+- Property inference attacks
+- Privacy-preserving machine learning
+
+## Industry Experience
+
+I have held industry positions in both software engineering and data science:
+
+- **[Google](https://about.google/)** - Student Researcher (Fall 2024)  
+  *Exploring open problems in machine unlearning* 🔒
+
+- **[LinkedIn](https://about.linkedin.com/)** - Applied Research Intern (Summers 2023 & 2024)  
+  *Data Privacy team - empirically measuring privacy leakage in analytics and LLMs*
+
+- **[Intuit](https://www.intuit.com/)** - Software Engineer
+
+- **[NewSci Labs](https://labs.newsci.ai/)** - Data Scientist
+
+## Contact
+
+- **Email**: abascal.j@northeastern.edu
+- **Office**: 177 Huntington, Boston, MA 02115
+- **GitHub**: [johnmath](https://github.com/johnmath)
+- **LinkedIn**: [johnabascal](https://linkedin.com/in/johnabascal)
+- **Google Scholar**: [3jYQ3FsAAAAJ](https://scholar.google.com/citations?user=3jYQ3FsAAAAJ&hl)
 
 ```bash
-$ contact --info
-Email: abascal.j@northeastern.edu
-GitHub: github.com/johnmath
-Scholar: scholar.google.com/citations?user=3jYQ3FsAAAAJ
-LinkedIn: linkedin.com/in/johnabascal
-
 $ help
 Available commands:
-  about     - Learn more about me
   cv        - View my curriculum vitae  
   research  - Browse my publications and projects
 
