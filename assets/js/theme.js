@@ -1,16 +1,9 @@
 // Theme toggle functionality
+// Note: Initial theme application happens in <head> to prevent flicker
 (function() {
   const themeToggle = document.getElementById('theme-toggle');
   const themeToggleMobile = document.getElementById('theme-toggle-mobile');
   const body = document.body;
-  
-  // Check for saved theme preference or default to dark mode
-  const currentTheme = localStorage.getItem('theme') || 'light';
-  
-  // Apply the saved theme on page load
-  if (currentTheme === 'dark') {
-    body.classList.add('dark-mode');
-  }
   
   // Theme toggle function
   function toggleTheme() {

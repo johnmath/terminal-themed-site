@@ -7,6 +7,20 @@
   {{ partial "head.html" . }}
 </head>
 <body>
+<script>
+  // Immediately apply dark mode class to prevent flash - must be inline and first thing in body
+  (function() {
+    const savedTheme = localStorage.getItem('theme');
+    const theme = savedTheme !== null ? savedTheme : 'dark';
+    if (theme === 'dark') {
+      document.body.classList.add('dark-mode');
+    }
+    // Save default theme if not set
+    if (savedTheme === null) {
+      localStorage.setItem('theme', 'dark');
+    }
+  })();
+</script>
 {{ $container := cond ($.Site.Params.FullWidthTheme | default false) "container full" (cond ($.Site.Params.CenterTheme | default false) "container center" "container") }}
 
 <div class="{{- $container -}}{{- cond ($.Site.Params.oneHeadingSize | default false) " headings--one-size" "" }}">
