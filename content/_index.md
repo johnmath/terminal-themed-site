@@ -8,59 +8,28 @@ author = "John Abascal"
 $ whoami
 john
 
-$ pwd  
-/home/john/academic-website
-
-$ ls -la research/
-drwxr-xr-x  2 john  staff   privacy-deep-learning/
-drwxr-xr-x  2 john  staff   differential-privacy/
-drwxr-xr-x  2 john  staff   adversarial-ml/
-drwxr-xr-x  2 john  staff   property-inference/
-
-$ cat about.txt
+$ open me.png && cat about.md
 ```
 
-# Hi there
+<img 
+  src="/assets/me.png" 
+  alt="A portrait of me" 
+  style="
+    border-radius: 16px; 
+    width: clamp(100px, 25vw, 200px);
+    height: clamp(100px, 25vw, 200px);
+    object-fit: cover;
+    float: left;
+    margin-right: 15px;
+    margin-bottom: 10px;
+  "
+>
 
-I am a fourth-year Computer Science PhD Student at **Northeastern University**, where I am advised by [Jonathan Ullman](https://www.ccs.neu.edu/home/jullman/) and [Alina Oprea](https://www.ccs.neu.edu/home/alina/). I completed my B.S. in Pure Mathematics at **Florida State University** and conducted my undergraduate honors thesis under the guidance of [Alec Kercheval](https://www.math.fsu.edu/~kercheva/) and [Nathan Crock](https://www.sc.fsu.edu/people?uid=ndc08).
 
-## Research Interests
+## Hi 👋
 
-My primary research interest is **privacy in deep learning**. More broadly, I am interested in both theoretical computer science and applied machine learning, including topics such as:
+I am a fifth-year Computer Science PhD student at Northeastern University, advised by [Jonathan Ullman](https://www.ccs.neu.edu/home/jullman/) and [Alina Oprea](https://www.ccs.neu.edu/home/alina/). Prior to my PhD, I completed my B.S. in Pure Mathematics at Florida State University, where I wrote my honors thesis under the guidance of [Alec Kercheval](https://www.math.fsu.edu/~kercheva/) and [Nathan Crock](https://www.sc.fsu.edu/people?uid=ndc08)
 
-- Differential privacy
-- Adversarial machine learning  
-- Trustworthiness of machine learning algorithms
-- Property inference attacks
-- Privacy-preserving machine learning
+My research primarily focuses on trustworthy machine learning, with an emphasis on empirically measuring privacy and security risks of deep learning models 🔒. More broadly, I am interested in topics such as memorization, differential privacy, adversarial machine learning, and AI safety.
 
-## Industry Experience
-
-I have held industry positions in both software engineering and data science:
-
-- **[Google](https://about.google/)** - Student Researcher (Fall 2024)  
-  *Exploring open problems in machine unlearning* 🔒
-
-- **[LinkedIn](https://about.linkedin.com/)** - Applied Research Intern (Summers 2023 & 2024)  
-  *Data Privacy team - empirically measuring privacy leakage in analytics and LLMs*
-
-- **[Intuit](https://www.intuit.com/)** - Software Engineer
-
-- **[NewSci Labs](https://labs.newsci.ai/)** - Data Scientist
-
-## Contact
-
-- **Email**: abascal.j@northeastern.edu
-- **Office**: 177 Huntington, Boston, MA 02115
-- **GitHub**: [johnmath](https://github.com/johnmath)
-- **LinkedIn**: [johnabascal](https://linkedin.com/in/johnabascal)
-- **Google Scholar**: [3jYQ3FsAAAAJ](https://scholar.google.com/citations?user=3jYQ3FsAAAAJ&hl)
-
-```bash
-$ help
-Available commands:
-  cv        - View my curriculum vitae  
-  research  - Browse my publications and projects
-
-Use the navigation menu above or type the command name.
-```
+I have held multiple industry research positions, most recently as a Student Researcher at [Google](https://research.google/) where I worked on machine unlearning and as an Applied Research Intern on [LinkedIn's](https://about.linkedin.com/) Data Privacy team where I worked on measuring leakage from statistical queries and LLMs. I have also held roles in software engineering and data science at [Intuit](https://www.intuit.com/) and [NewSci Labs](https://labs.newsci.ai/), respectively.

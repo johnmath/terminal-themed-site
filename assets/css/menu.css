@@ -87,6 +87,8 @@
   left: 0;
   list-style: none;
   z-index: 99;
+  min-width: 150px;
+  white-space: nowrap;
 }
 
 .open .menu__dropdown {
@@ -193,6 +195,7 @@
   .menu--mobile .menu__dropdown {
     left: auto;
     right: 0;
+    min-width: 160px;
   }
 
   .menu--language-selector .menu__trigger {
