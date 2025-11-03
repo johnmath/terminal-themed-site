@@ -89,6 +89,7 @@
   z-index: 99;
   min-width: 150px;
   white-space: nowrap;
+  transition: none !important; /* Prevent all transitions to avoid artifacts */
 }
 
 .open .menu__dropdown {

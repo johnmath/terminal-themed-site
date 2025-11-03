@@ -11,7 +11,7 @@ john
 $ open me.png && cat about.md
 ```
 
-<img src="/assets/me.png" alt="A portrait of me" style=" border-radius: 16px; width: clamp(100px, 25vw, 200px); height: clamp(100px, 25vw, 200px); object-fit: cover; float: left; margin-right: 15px; margin-bottom: 10px; ">
+<img src="/me.png" alt="A portrait of me" style=" border-radius: 16px; width: clamp(100px, 25vw, 200px); height: clamp(100px, 25vw, 200px); object-fit: cover; float: left; margin-right: 15px; margin-bottom: 10px; ">
 
 
 ## Hi 👋
