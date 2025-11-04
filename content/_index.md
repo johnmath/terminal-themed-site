@@ -1,17 +1,22 @@
 +++
 title = "John Abascal"
-date = "2024-01-01"
+date = "2025-09-01"
 author = "John Abascal"
 +++
 
-```bash
-$ whoami
+
+{{< highlight zsh >}}
+$john@website:~% whoami
 john
 
-$ open me.png && cat about.md
-```
+$john@website:~% ls
+about.md    cv.md    research.md    me.png
 
-<img src="img/me.png" alt="Portrait of Me" style="border-radius: 16px; width: clamp(100px, 20vw, 160px); height: clamp(100px, 20vw, 160px); object-fit: cover; float: left; margin-right: 15px; margin-bottom: 10px;">
+$john@website:~% open me.png && cat about.md
+{{< /highlight >}}
+
+
+{{< figure src="img/me.png" alt="Portrait of Me" position="left" style="max-width: 150px; border-radius: 4px;" >}}
 
 
 # Hi 👋
