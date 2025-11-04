@@ -1,6 +1,6 @@
 +++
 title = "CV"
-date = "2024-01-01"
+date = "2025-10-01"
 author = "John Abascal"
 +++
 
@@ -8,39 +8,41 @@ author = "John Abascal"
 
 ## Education
 
-**Northeastern University** — Boston, MA  
-*PhD in Computer Science* (Expected 2025)  
-Advisors: [Jonathan Ullman](https://www.ccs.neu.edu/home/jullman/) and [Alina Oprea](https://www.ccs.neu.edu/home/alina/)  
-Focus: Privacy in Deep Learning
+#### Northeastern University - *Boston, MA*
+*PhD in Computer Science* (Expected Jul. 2026)  
+- Research Areas: Trustworthy Machine Learning, Adversarial Machine Learning
+- Advisors: [Jonathan Ullman](https://www.ccs.neu.edu/home/jullman/) and [Alina Oprea](https://www.ccs.neu.edu/home/alina/)  
 
-**Florida State University** — Tallahassee, FL  
-*B.S. in Pure Mathematics* (2021)  
-Undergraduate Honors Thesis Advisors: [Alec Kercheval](https://www.math.fsu.edu/~kercheva/) and [Nathan Crock](https://www.sc.fsu.edu/people?uid=ndc08)
+#### Florida State University - *Tallahassee, FL*
+**B.S. in Pure Mathematics** (2017 - 2021)
+- Honors Thesis: *A Standardized Approach to Studying the Double Descent Phenomenon* 
+- Advisors: [Alec Kercheval](https://www.math.fsu.edu/~kercheva/) and [Nathan Crock](https://www.sc.fsu.edu/people?uid=ndc08)
 
-## Research Experience
+## Experience
 
-**Google** — Student Researcher (Fall 2024)  
-*Exploring open problems in machine unlearning*
+#### Google
+**Student Researcher**  
+*Oct. 2024 - Aug. 2025*
 
-**LinkedIn** — Applied Research Intern (Summer 2023, 2024)  
-*Data Privacy team - empirically measuring privacy leakage in analytics and LLMs*
+#### LinkedIn  
+**Applied Research Intern**  
+*Jun. 2024 - Aug. 2024*
 
-**Northeastern University** — PhD Research (2021-Present)  
-*Privacy attacks on machine learning models, differential privacy, adversarial ML*
+#### LinkedIn 
+**Applied Research Intern**
+*Jun. 2023 - Aug. 2023*
 
-## Industry Experience
+#### Intuit
+**Software Engineering Intern**
+*May 2021 - Aug. 2021*
 
-**Google** — Student Researcher <div style="text-align: right"> Oct. 2024 - Aug. 2025 </div>
+#### Intuit  
+**Software Engineering Intern**
+*May 2020 - Aug. 2020*
 
-**LinkedIn** — Applied Research Intern <div style="text-align: right"> Jun. 2024 - Aug. 2024 </div>
-
-**LinkedIn** — Applied Research Intern <div style="text-align: right"> Jun. 2023 - Aug. 2023 </div>
-
-**Intuit** — Software Engineering Intern <div style="text-align: right"> May 2021 - Aug. 2021 </div>
-
-**Intuit** — Software Engineering Intern <div style="text-align: right"> May 2020 - Aug. 2020 </div>
-
-**NewSci Labs** — Machine Learning Intern  <div style="text-align: right"> Aug. 2019 - May 2021 </div>
+#### NewSci Labs  
+**Machine Learning Intern**
+*Aug. 2019 - May 2021*
 
 ## Publications
 

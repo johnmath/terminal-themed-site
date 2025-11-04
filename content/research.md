@@ -4,11 +4,11 @@ date = "2025-09-01"
 author = "John Abascal"
 +++
 
-# Research
+<!-- # Research
 
-My research focuses on **privacy in deep learning** and the intersection of machine learning security and privacy. I work on understanding and mitigating privacy risks in modern machine learning systems.
+My research focuses on **privacy in deep learning** and the intersection of machine learning security and privacy. I work on understanding and mitigating privacy risks in modern machine learning systems. -->
 
-## Publications
+# Publications
 
 ### 2025
 
@@ -36,9 +36,14 @@ Proceedings on Privacy Enhancing Technologies (PETS) 2024
 IEEE Symposium on Security and Privacy (S&P) 2023  
 {{< pub-buttons pdf="https://doi.ieeecomputersociety.org/10.1109/SP46215.2023.00111" code="https://www.github.com/johnmath/snap-sp23" video="https://www.youtube.com/watch?v=p89ZQEt7qhM&t=1s" >}}
 
-> **Abstract**: Property inference attacks allow an adversary to extract global properties of the training dataset from a machine learning model. We design an efficient property inference attack, SNAP, which achieves higher attack success and requires lower amounts of poisoning than prior work. For example, on the Census dataset, SNAP achieves 34% higher success rate while being 56.5x faster.
+<details>
+<summary><strong>Abstract</strong></summary>
 
-## Research Interests
+Property inference attacks allow an adversary to extract global properties of the training dataset from a machine learning model. We design an efficient property inference attack, SNAP, which achieves higher attack success and requires lower amounts of poisoning than prior work. For example, on the Census dataset, SNAP achieves 34% higher success rate while being 56.5x faster.
+
+</details>
+
+<!-- ## Research Interests
 
 - **Privacy-Preserving Machine Learning**: Developing techniques to protect sensitive information in ML models
 - **Adversarial Machine Learning**: Understanding vulnerabilities in ML systems and developing defenses
@@ -54,6 +59,6 @@ I am currently working as a Student Researcher at **Google** on open problems in
 
 During my internships at **LinkedIn**, I worked on empirically measuring privacy leakage in analytics systems and large language models, developing novel techniques to quantify and mitigate privacy risks in production systems.
 
----
+--- -->
 
 *For the most up-to-date list of publications, please see my [Google Scholar profile](https://scholar.google.com/citations?user=3jYQ3FsAAAAJ&hl).*
