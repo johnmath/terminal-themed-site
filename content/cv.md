@@ -4,9 +4,8 @@ date = "2025-10-01"
 author = "John Abascal"
 +++
 
-# Curriculum Vitae
 
-## Education
+# Education
 
 #### Northeastern University - *Boston, MA*
 *PhD in Computer Science* (Expected Jul. 2026)  
@@ -18,7 +17,7 @@ author = "John Abascal"
 - Honors Thesis: *A Standardized Approach to Studying the Double Descent Phenomenon* 
 - Advisors: [Alec Kercheval](https://www.math.fsu.edu/~kercheva/) and [Nathan Crock](https://www.sc.fsu.edu/people?uid=ndc08)
 
-## Experience
+# Work Experience
 
 ### Google - *Cambridge, MA*
 **Student Researcher**  
@@ -44,7 +43,7 @@ author = "John Abascal"
 **Machine Learning Intern**
 *Aug. 2019 - May 2021*
 
-## Publications
+# Papers
 
 ### 2025
 - **Should We Forget About Certified Unlearning? Evaluating the Pitfalls of Noisy Methods**
@@ -68,13 +67,13 @@ author = "John Abascal"
   Harsh Chaudhari, John Abascal, Alina Oprea, Matthew Jagielski, Florian Tramèr, Jonathan Ullman  
   *IEEE Symposium on Security and Privacy (S&P) 2023*
 
-## Skills
+# Skills
 
 **Programming Languages**: Python, C++, C, Swift, SQL, JavaScript,   
 **Tools and Technologies**: PyTorch, TensorFlow, scikit-learn, Hugging Face, NumPy, Pandas, GCP, Linux, UIKit
 **Lanugages**: English, Spanish
 
-## Contact
+# Contact
 
 **Email**: abascal.j@northeastern.edu  
 **Office**: 177 Huntington, Boston, MA 02115
