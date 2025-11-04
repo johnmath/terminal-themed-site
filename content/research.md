@@ -12,6 +12,9 @@ My research focuses on **privacy in deep learning** and the intersection of mach
 
 ### 2025
 
+**Should We Forget About Certified Unlearning? Evaluating the Pitfalls of Noisy Methods**
+  *{{< authors "John Abascal, Eleni Triantafillou, Matthew Jagielski, Nicole Mitchell, Peter Kairouz"}}*
+
 **Black-Box Privacy Attacks on Shared Representations in Multitask Learning**  
 *{{< authors "John Abascal, Nicolás Berrios, Alina Oprea, Jonathan Ullman, Adam Smith, Matthew Jagielski" >}}*  
 arXiv preprint arXiv:2506.16460, 2025  
