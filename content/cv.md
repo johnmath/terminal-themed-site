@@ -20,33 +20,33 @@ author = "John Abascal"
 
 ## Experience
 
-#### Google
+### Google - *Cambridge, MA*
 **Student Researcher**  
 *Oct. 2024 - Aug. 2025*
 
-#### LinkedIn  
+### LinkedIn - *New York, NY*
 **Applied Research Intern**  
 *Jun. 2024 - Aug. 2024*
 
-#### LinkedIn 
+### LinkedIn - *Mountain View, CA*
 **Applied Research Intern**
 *Jun. 2023 - Aug. 2023*
 
-#### Intuit
+### Intuit - *Mountain View, CA*
 **Software Engineering Intern**
 *May 2021 - Aug. 2021*
 
-#### Intuit  
+### Intuit - *Mountain View, CA*
 **Software Engineering Intern**
 *May 2020 - Aug. 2020*
 
-#### NewSci Labs  
+### NewSci Labs  - *Tallahassee, FL*
 **Machine Learning Intern**
 *Aug. 2019 - May 2021*
 
 ## Publications
 
-#### 2025
+### 2025
 - **Should We Forget About Certified Unlearning? Evaluating the Pitfalls of Noisy Methods**
   John Abascal, Eleni Triantafillou, Matthew Jagielski, Nicole Mitchell, Peter Kairouz
   
@@ -54,7 +54,7 @@ author = "John Abascal"
   John Abascal, Nicolás Berrios, Alina Oprea, Jonathan Ullman, Adam Smith, Matthew Jagielski  
   *arXiv preprint*
 
-#### 2024
+### 2024
 - **Phantom: General Trigger Attacks on Retrieval Augmented Language Generation**  
   Harsh Chaudhari, Giorgio Severi, John Abascal, Matthew Jagielski, Christopher A. Choquette-Choo, Milad Nasr, Cristina Nita-Rotaru, Alina Oprea  
   *arXiv preprint*
@@ -63,7 +63,7 @@ author = "John Abascal"
   John Abascal, Stanley Wu, Alina Oprea, Jonathan Ullman  
   *Proceedings on Privacy Enhancing Technologies (PETS) 2024*
 
-#### 2023
+### 2023
 - **SNAP: Efficient Extraction of Private Properties with Poisoning**  
   Harsh Chaudhari, John Abascal, Alina Oprea, Matthew Jagielski, Florian Tramèr, Jonathan Ullman  
   *IEEE Symposium on Security and Privacy (S&P) 2023*
