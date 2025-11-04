@@ -13,7 +13,7 @@ $ open me.png && cat about.md
 
 <!-- <img src="/img/me.png" alt="A portrait of me" style="border-radius: 16px; width: clamp(100px, 25vw, 200px); height: clamp(100px, 25vw, 200px); object-fit: cover; float: left; margin-right: 15px; margin-bottom: 10px;"> -->
 
-![](/img/me.png)
+![Portrait of Me](/img/me.png)
 
 
 # Hi 👋

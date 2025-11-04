@@ -30,38 +30,47 @@ Undergraduate Honors Thesis Advisors: [Alec Kercheval](https://www.math.fsu.edu/
 
 ## Industry Experience
 
-**Intuit** — Software Engineer  
-*Full-stack development and data engineering*
+**Google** — Student Researcher <div style="text-align: right"> Oct. 2024 - Aug. 2025 </div>
 
-**NewSci Labs** — Data Scientist  
-*Machine learning and data analysis for scientific applications*
+**LinkedIn** — Applied Research Intern <div style="text-align: right"> Jun. 2024 - Aug. 2024 </div>
+
+**LinkedIn** — Applied Research Intern <div style="text-align: right"> Jun. 2023 - Aug. 2023 </div>
+
+**Intuit** — Software Engineering Intern <div style="text-align: right"> May 2021 - Aug. 2021 </div>
+
+**Intuit** — Software Engineering Intern <div style="text-align: right"> May 2020 - Aug. 2020 </div>
+
+**NewSci Labs** — Machine Learning Intern  <div style="text-align: right"> Aug. 2019 - May 2021 </div>
 
 ## Publications
 
-**2025**
+#### 2025
+- **Should We Forget About Certified Unlearning? Evaluating the Pitfalls of Noisy Methods**
+  John Abascal, Eleni Triantafillou, Matthew Jagielski, Nicole Mitchell, Peter Kairouz
+  
 - **Black-Box Privacy Attacks on Shared Representations in Multitask Learning**  
   John Abascal, Nicolás Berrios, Alina Oprea, Jonathan Ullman, Adam Smith, Matthew Jagielski  
-  *arXiv preprint arXiv:2506.16460*
+  *arXiv preprint*
 
-**2024**  
+#### 2024
 - **Phantom: General Trigger Attacks on Retrieval Augmented Language Generation**  
   Harsh Chaudhari, Giorgio Severi, John Abascal, Matthew Jagielski, Christopher A. Choquette-Choo, Milad Nasr, Cristina Nita-Rotaru, Alina Oprea  
-  *arXiv preprint arXiv:2405.20485*
+  *arXiv preprint*
 
 - **TMI! Finetuned Models Leak Private Information from their Pretraining Data**  
   John Abascal, Stanley Wu, Alina Oprea, Jonathan Ullman  
   *Proceedings on Privacy Enhancing Technologies (PETS) 2024*
 
-**2023**
+#### 2023
 - **SNAP: Efficient Extraction of Private Properties with Poisoning**  
-  H. Chaudhari, J. Abascal, A. Oprea, M. Jagielski, F. Tramèr, J. Ullman  
+  Harsh Chaudhari, John Abascal, Alina Oprea, Matthew Jagielski, Florian Tramèr, Jonathan Ullman  
   *IEEE Symposium on Security and Privacy (S&P) 2023*
 
 ## Skills
 
-**Programming Languages**: Python, R, Java, C++, JavaScript, SQL  
-**Machine Learning**: PyTorch, TensorFlow, scikit-learn, NumPy, Pandas  
-**Other Tools**: Git, Docker, Linux, Hugo, Jekyll
+**Programming Languages**: Python, C++, C, Swift, SQL, JavaScript,   
+**Tools and Technologies**: PyTorch, TensorFlow, scikit-learn, Hugging Face, NumPy, Pandas, GCP, Linux, UIKit
+**Lanugages**: English, Spanish
 
 ## Contact
 
