@@ -11,14 +11,15 @@
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  padding: 4px 12px;
-  font-size: calc(var(--font-size) * 0.85);
+  padding: 5px 18px;
+  font: inherit;
   font-weight: bold;
   text-decoration: none;
   text-align: center;
-  border: 2px solid;
+  background: transparent;
+  border: 4px solid;
   border-radius: var(--radius);
-  transition: background 0.15s linear, transform 0.1s ease;
+  transition: background 0.15s linear;
   appearance: none;
   cursor: pointer;
   outline: none;
@@ -26,16 +27,16 @@
 }
 
 .pub-button:hover {
-  transform: translateY(-1px);
+  background: color-mix(in srgb, var(--accent) 15%, transparent);
 }
 
-.pub-button:active {
-  transform: translateY(0);
+.pub-button:focus-visible {
+  outline: 1px solid currentColor;
+  outline-offset: 2px;
 }
 
 /* PDF button - red/pink tones */
 .pub-button--pdf {
-  background: transparent;
   color: #d97979;
   border-color: #d97979;
 }
@@ -55,7 +56,6 @@ body.dark-mode .pub-button--pdf:hover {
 
 /* arXiv button - orange tones */
 .pub-button--arxiv {
-  background: transparent;
   color: #d9a679;
   border-color: #d9a679;
 }
@@ -75,7 +75,6 @@ body.dark-mode .pub-button--arxiv:hover {
 
 /* Code button - green tones (accent color) */
 .pub-button--code {
-  background: transparent;
   color: var(--accent);
   border-color: var(--accent);
 }
@@ -87,7 +86,6 @@ body.dark-mode .pub-button--arxiv:hover {
 /* Talk/Video button - blue tones */
 .pub-button--talk,
 .pub-button--video {
-  background: transparent;
   color: #7996d9;
   border-color: #7996d9;
 }
@@ -110,7 +108,6 @@ body.dark-mode .pub-button--video:hover {
 
 /* Slides button - purple tones */
 .pub-button--slides {
-  background: transparent;
   color: #a679d9;
   border-color: #a679d9;
 }
@@ -130,7 +127,6 @@ body.dark-mode .pub-button--slides:hover {
 
 /* Website button - teal tones */
 .pub-button--website {
-  background: transparent;
   color: #79d9d9;
   border-color: #79d9d9;
 }
@@ -148,12 +144,6 @@ body.dark-mode .pub-button--website:hover {
   background: color-mix(in srgb, #80ffff 15%, transparent);
 }
 
-/* Focus states for accessibility */
-.pub-button:focus-visible {
-  outline: 1px solid currentColor;
-  outline-offset: 2px;
-}
-
 /* Responsive adjustments */
 @media (max-width: 684px) {
   .pub-buttons {
@@ -161,7 +151,6 @@ body.dark-mode .pub-button--website:hover {
   }
   
   .pub-button {
-    padding: 3px 10px;
-    font-size: calc(var(--font-size) * 0.8);
+    padding: 4px 14px;
   }
 }

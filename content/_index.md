@@ -11,7 +11,7 @@ john
 $ open me.png && cat about.md
 ```
 
-![Portrait of Me](img/me.png)
+<img src="img/me.png" alt="Portrait of Me" style="border-radius: 16px; width: clamp(100px, 20vw, 160px); height: clamp(100px, 20vw, 160px); object-fit: cover; float: left; margin-right: 15px; margin-bottom: 10px;">
 
 
 # Hi 👋

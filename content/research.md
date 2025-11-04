@@ -13,26 +13,26 @@ My research focuses on **privacy in deep learning** and the intersection of mach
 ### 2025
 
 **Black-Box Privacy Attacks on Shared Representations in Multitask Learning**  
-*John Abascal, Nicolás Berrios, Alina Oprea, Jonathan Ullman, Adam Smith, Matthew Jagielski*  
+*{{< authors "John Abascal, Nicolás Berrios, Alina Oprea, Jonathan Ullman, Adam Smith, Matthew Jagielski" >}}*  
 arXiv preprint arXiv:2506.16460, 2025  
 {{< pub-buttons arxiv="https://arxiv.org/abs/2506.16460" >}}
 
 ### 2024
 
 **Phantom: General Trigger Attacks on Retrieval Augmented Language Generation**  
-*Harsh Chaudhari, Giorgio Severi, John Abascal, Matthew Jagielski, Christopher A. Choquette-Choo, Milad Nasr, Cristina Nita-Rotaru, Alina Oprea*  
+*{{< authors "Harsh Chaudhari, Giorgio Severi, John Abascal, Matthew Jagielski, Christopher A. Choquette-Choo, Milad Nasr, Cristina Nita-Rotaru, Alina Oprea" >}}*  
 arXiv preprint arXiv:2405.20485, 2024  
 {{< pub-buttons arxiv="https://arxiv.org/abs/2405.20485" >}}
 
 **TMI! Finetuned Models Leak Private Information from their Pretraining Data**  
-*John Abascal, Stanley Wu, Alina Oprea, Jonathan Ullman*  
+*{{< authors "John Abascal, Stanley Wu, Alina Oprea, Jonathan Ullman" >}}*  
 Proceedings on Privacy Enhancing Technologies (PETS) 2024  
 {{< pub-buttons arxiv="https://arxiv.org/abs/2306.01181" pdf="https://arxiv.org/pdf/2306.01181.pdf" >}}
 
 ### 2023
 
 **SNAP: Efficient Extraction of Private Properties with Poisoning**  
-*H. Chaudhari, J. Abascal, A. Oprea, M. Jagielski, F. Tramèr, J. Ullman*  
+*{{< authors "Harsh Chaudhari, John Abascal, Alina Oprea, Matthew Jagielski, Florian Tramèr, Jonathan Ullman" >}}*  
 IEEE Symposium on Security and Privacy (S&P) 2023  
 {{< pub-buttons pdf="https://doi.ieeecomputersociety.org/10.1109/SP46215.2023.00111" code="https://www.github.com/johnmath/snap-sp23" video="https://www.youtube.com/watch?v=p89ZQEt7qhM&t=1s" >}}
 

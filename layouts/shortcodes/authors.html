@@ -1,0 +1,16 @@
+{{- /* Shortcode to automatically link author names */ -}}
+{{- /* Usage: {{< authors "John Abascal, Matthew Jagielski, Other Author" >}} */ -}}
+
+{{- $authorList := .Inner | default (.Get 0) -}}
+{{- $authors := split $authorList "," -}}
+{{- $authorData := site.Data.authors -}}
+
+{{- range $index, $author := $authors -}}
+  {{- $cleanAuthor := trim $author " " -}}
+  {{- if gt $index 0 }}, {{ end -}}
+  {{- if index $authorData $cleanAuthor -}}
+    <a href="{{ index $authorData $cleanAuthor }}" target="_blank" rel="noopener">{{ $cleanAuthor }}</a>
+  {{- else -}}
+    {{ $cleanAuthor }}
+  {{- end -}}
+{{- end -}}
