@@ -11,10 +11,12 @@ john
 $ open me.png && cat about.md
 ```
 
-<img src="/images/me.png" alt="A portrait of me" style="border-radius: 16px; width: clamp(100px, 25vw, 200px); height: clamp(100px, 25vw, 200px); object-fit: cover; float: left; margin-right: 15px; margin-bottom: 10px;">
+<!-- <img src="/img/me.png" alt="A portrait of me" style="border-radius: 16px; width: clamp(100px, 25vw, 200px); height: clamp(100px, 25vw, 200px); object-fit: cover; float: left; margin-right: 15px; margin-bottom: 10px;"> -->
+
+![](/img/me.png)
 
 
-## Hi 👋
+# Hi 👋
 
 I am a fifth-year Computer Science PhD student at Northeastern University, advised by [Jonathan Ullman](https://www.ccs.neu.edu/home/jullman/) and [Alina Oprea](https://www.ccs.neu.edu/home/alina/). Prior to my PhD, I completed my B.S. in Pure Math at Florida State University, where I wrote my honors thesis under the guidance of [Alec Kercheval](https://www.math.fsu.edu/~kercheva/) and [Nathan Crock](https://www.sc.fsu.edu/people?uid=ndc08)
 
