@@ -1,0 +1,167 @@
+/* Publication buttons styling */
+.pub-buttons {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin: 10px 0 15px 0;
+}
+
+.pub-button {
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 4px 12px;
+  font-size: calc(var(--font-size) * 0.85);
+  font-weight: bold;
+  text-decoration: none;
+  text-align: center;
+  border: 2px solid;
+  border-radius: var(--radius);
+  transition: background 0.15s linear, transform 0.1s ease;
+  appearance: none;
+  cursor: pointer;
+  outline: none;
+  white-space: nowrap;
+}
+
+.pub-button:hover {
+  transform: translateY(-1px);
+}
+
+.pub-button:active {
+  transform: translateY(0);
+}
+
+/* PDF button - red/pink tones */
+.pub-button--pdf {
+  background: transparent;
+  color: #d97979;
+  border-color: #d97979;
+}
+
+.pub-button--pdf:hover {
+  background: color-mix(in srgb, #d97979 15%, transparent);
+}
+
+body.dark-mode .pub-button--pdf {
+  color: #ff8080;
+  border-color: #ff8080;
+}
+
+body.dark-mode .pub-button--pdf:hover {
+  background: color-mix(in srgb, #ff8080 15%, transparent);
+}
+
+/* arXiv button - orange tones */
+.pub-button--arxiv {
+  background: transparent;
+  color: #d9a679;
+  border-color: #d9a679;
+}
+
+.pub-button--arxiv:hover {
+  background: color-mix(in srgb, #d9a679 15%, transparent);
+}
+
+body.dark-mode .pub-button--arxiv {
+  color: #ffb380;
+  border-color: #ffb380;
+}
+
+body.dark-mode .pub-button--arxiv:hover {
+  background: color-mix(in srgb, #ffb380 15%, transparent);
+}
+
+/* Code button - green tones (accent color) */
+.pub-button--code {
+  background: transparent;
+  color: var(--accent);
+  border-color: var(--accent);
+}
+
+.pub-button--code:hover {
+  background: color-mix(in srgb, var(--accent) 15%, transparent);
+}
+
+/* Talk/Video button - blue tones */
+.pub-button--talk,
+.pub-button--video {
+  background: transparent;
+  color: #7996d9;
+  border-color: #7996d9;
+}
+
+.pub-button--talk:hover,
+.pub-button--video:hover {
+  background: color-mix(in srgb, #7996d9 15%, transparent);
+}
+
+body.dark-mode .pub-button--talk,
+body.dark-mode .pub-button--video {
+  color: #80b3ff;
+  border-color: #80b3ff;
+}
+
+body.dark-mode .pub-button--talk:hover,
+body.dark-mode .pub-button--video:hover {
+  background: color-mix(in srgb, #80b3ff 15%, transparent);
+}
+
+/* Slides button - purple tones */
+.pub-button--slides {
+  background: transparent;
+  color: #a679d9;
+  border-color: #a679d9;
+}
+
+.pub-button--slides:hover {
+  background: color-mix(in srgb, #a679d9 15%, transparent);
+}
+
+body.dark-mode .pub-button--slides {
+  color: #b380ff;
+  border-color: #b380ff;
+}
+
+body.dark-mode .pub-button--slides:hover {
+  background: color-mix(in srgb, #b380ff 15%, transparent);
+}
+
+/* Website button - teal tones */
+.pub-button--website {
+  background: transparent;
+  color: #79d9d9;
+  border-color: #79d9d9;
+}
+
+.pub-button--website:hover {
+  background: color-mix(in srgb, #79d9d9 15%, transparent);
+}
+
+body.dark-mode .pub-button--website {
+  color: #80ffff;
+  border-color: #80ffff;
+}
+
+body.dark-mode .pub-button--website:hover {
+  background: color-mix(in srgb, #80ffff 15%, transparent);
+}
+
+/* Focus states for accessibility */
+.pub-button:focus-visible {
+  outline: 1px solid currentColor;
+  outline-offset: 2px;
+}
+
+/* Responsive adjustments */
+@media (max-width: 684px) {
+  .pub-buttons {
+    gap: 6px;
+  }
+  
+  .pub-button {
+    padding: 3px 10px;
+    font-size: calc(var(--font-size) * 0.8);
+  }
+}

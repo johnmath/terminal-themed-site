@@ -1,0 +1,26 @@
+{{- /* Shortcode for publication buttons with conditional rendering */ -}}
+{{- /* Usage: {{< pub-buttons pdf="url" code="url" talk="url" slides="url" arxiv="url" >}} */ -}}
+
+<div class="pub-buttons">
+  {{- if .Get "pdf" -}}
+    <a href="{{ .Get "pdf" }}" class="pub-button pub-button--pdf" target="_blank" rel="noopener">PDF</a>
+  {{- end -}}
+  {{- if .Get "arxiv" -}}
+    <a href="{{ .Get "arxiv" }}" class="pub-button pub-button--arxiv" target="_blank" rel="noopener">arXiv</a>
+  {{- end -}}
+  {{- if .Get "code" -}}
+    <a href="{{ .Get "code" }}" class="pub-button pub-button--code" target="_blank" rel="noopener">Code</a>
+  {{- end -}}
+  {{- if .Get "talk" -}}
+    <a href="{{ .Get "talk" }}" class="pub-button pub-button--talk" target="_blank" rel="noopener">Talk</a>
+  {{- end -}}
+  {{- if .Get "video" -}}
+    <a href="{{ .Get "video" }}" class="pub-button pub-button--video" target="_blank" rel="noopener">Video</a>
+  {{- end -}}
+  {{- if .Get "slides" -}}
+    <a href="{{ .Get "slides" }}" class="pub-button pub-button--slides" target="_blank" rel="noopener">Slides</a>
+  {{- end -}}
+  {{- if .Get "website" -}}
+    <a href="{{ .Get "website" }}" class="pub-button pub-button--website" target="_blank" rel="noopener">Website</a>
+  {{- end -}}
+</div>
