@@ -19,29 +19,23 @@ author = "John Abascal"
 
 # Work Experience
 
-### Google - *Cambridge, MA*
-**Student Researcher**  
-*Oct. 2024 - Aug. 2025*
+### Google - *Cambridge, MA* | *Oct. 2024 - Aug. 2025*
+**Student Researcher** 
 
-### LinkedIn - *New York, NY*
-**Applied Research Intern**  
-*Jun. 2024 - Aug. 2024*
+### LinkedIn - *New York, NY* | *Jun. 2024 - Aug. 2024*
+**Applied Research Intern** 
 
-### LinkedIn - *Mountain View, CA*
-**Applied Research Intern**
-*Jun. 2023 - Aug. 2023*
+### LinkedIn - *Mountain View, CA* | *Jun. 2023 - Aug. 2023*
+**Applied Research Intern** 
 
-### Intuit - *Mountain View, CA*
-**Software Engineering Intern**
-*May 2021 - Aug. 2021*
+### Intuit - *Mountain View, CA* | *May 2021 - Aug. 2021*
+**Software Engineering Intern** 
 
-### Intuit - *Mountain View, CA*
-**Software Engineering Intern**
-*May 2020 - Aug. 2020*
+### Intuit - *Mountain View, CA* | *May 2020 - Aug. 2020*
+**Software Engineering Intern** 
 
-### NewSci Labs  - *Tallahassee, FL*
-**Machine Learning Intern**
-*Aug. 2019 - May 2021*
+### NewSci Labs  - *Tallahassee, FL* | *Aug. 2019 - May 2021*
+**Machine Learning Intern** 
 
 # Papers
 
