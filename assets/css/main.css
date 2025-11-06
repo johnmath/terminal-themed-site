@@ -516,6 +516,12 @@ iframe[src*="youtube.com"] {
   padding: 8px !important;
 }
 
+/* CV date styling that adapts to theme */
+.cv-date {
+  color: color-mix(in srgb, var(--foreground) 55%, transparent) !important;
+  transition: color 0.3s ease;
+}
+
 @media (max-width: 684px) {
   :root {
     --font-size: 0.95rem;

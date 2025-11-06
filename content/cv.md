@@ -21,25 +21,25 @@ author = "John Abascal"
 
 # Work Experience
 
-### Google <span style="float: right; font-size: 0.8em; font-weight: normal; color: #555;">*Oct. 2024 - Aug. 2025*</span>
+### Google <span style="float: right; font-size: 0.8em; font-weight: normal;" class="cv-date">*Oct. 2024 - Aug. 2025*</span>
 **Student Researcher** | *Cambridge, MA*
 - Topic: Machine Unlearning
 
-### LinkedIn <span style="float: right; font-size: 0.8em; font-weight: normal; color: #555;">*Jun. 2024 - Aug. 2024*</span>
+### LinkedIn <span style="float: right; font-size: 0.8em; font-weight: normal;" class="cv-date">*Jun. 2024 - Aug. 2024*</span>
 **Applied Research Intern** | *New York, NY*
 - Topic: Training Data Extraction from LLMs
 
-### LinkedIn <span style="float: right; font-size: 0.8em; font-weight: normal; color: #555;">*Jun. 2023 - Aug. 2023*</span>
+### LinkedIn <span style="float: right; font-size: 0.8em; font-weight: normal;" class="cv-date">*Jun. 2023 - Aug. 2023*</span>
 **Applied Research Intern** | *Mountain View, CA*
 - Topic: Differential Privacy for Analytics
 
-### Intuit <span style="float: right; font-size: 0.8em; font-weight: normal; color: #555;">*May 2021 - Aug. 2021*</span>
+### Intuit <span style="float: right; font-size: 0.8em; font-weight: normal;" class="cv-date">*May 2021 - Aug. 2021*</span>
 **Software Engineering Intern** | *Mountain View, CA*
 
-### Intuit <span style="float: right; font-size: 0.8em; font-weight: normal; color: #555;">*May 2020 - Aug. 2020*</span>
+### Intuit <span style="float: right; font-size: 0.8em; font-weight: normal;" class="cv-date">*May 2020 - Aug. 2020*</span>
 **Software Engineering Intern** | *Mountain View, CA*
 
-### NewSci Labs <span style="float: right; font-size: 0.8em; font-weight: normal; color: #555;">*Aug. 2019 - May 2021*</span>
+### NewSci Labs <span style="float: right; font-size: 0.8em; font-weight: normal;" class="cv-date">*Aug. 2019 - May 2021*</span>
 **Machine Learning Intern** | *Tallahassee, FL*
 
 ----
