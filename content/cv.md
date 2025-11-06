@@ -28,7 +28,7 @@ author = "John Abascal"
 ### LinkedIn <span style="float: right; font-size: 0.8em; font-weight: normal; color: #555;">*Jun. 2024 - Aug. 2024*</span>
 **Applied Research Intern** | *New York, NY*
 - Topic: Training Data Extraction from LLMs
-----
+
 ### LinkedIn <span style="float: right; font-size: 0.8em; font-weight: normal; color: #555;">*Jun. 2023 - Aug. 2023*</span>
 **Applied Research Intern** | *Mountain View, CA*
 - Topic: Differential Privacy for Analytics

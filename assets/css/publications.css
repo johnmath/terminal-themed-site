@@ -40,26 +40,26 @@
   outline-offset: 2px;
 }
 
-/* PDF button - red/pink tones */
+/* PDF button - purple tones */
 .pub-button--pdf {
-  color: #d97979;
-  border-color: #d97979;
-}
-
-body.dark-mode .pub-button--pdf {
-  color: #ff8080;
-  border-color: #ff8080;
-}
-
-/* arXiv button - purple tones */
-.pub-button--arxiv {
   color: #9f7ad9;
   border-color: #9f7ad9;
 }
 
-body.dark-mode .pub-button--arxiv {
+body.dark-mode .pub-button--pdf {
   color: #b380ff;
   border-color: #b380ff;
+}
+
+/* arXiv button - red/pink tones */
+.pub-button--arxiv {
+  color: #d97979;
+  border-color: #d97979;
+}
+
+body.dark-mode .pub-button--arxiv {
+  color: #ff8080;
+  border-color: #ff8080;
 }
 
 /* Code button - green tones (accent color) */

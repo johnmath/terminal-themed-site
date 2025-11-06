@@ -33,6 +33,13 @@
   font-size: inherit;
   margin-bottom: 10px;
   color: color-mix(in srgb, var(--foreground) 65%, transparent);
+  transition: color 0.3s ease;
+}
+
+.post-meta .post-date,
+.post-meta .post-author {
+  color: inherit;
+  transition: color 0.3s ease;
 }
 
 .post-meta > *:not(:first-child)::before {

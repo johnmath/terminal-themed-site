@@ -11,13 +11,13 @@
   // Immediately apply dark mode class to prevent flash - must be inline and first thing in body
   (function() {
     const savedTheme = localStorage.getItem('theme');
-    const theme = savedTheme !== null ? savedTheme : 'dark';
+    const theme = savedTheme !== null ? savedTheme : 'light';
     if (theme === 'dark') {
       document.body.classList.add('dark-mode');
     }
     // Save default theme if not set
     if (savedTheme === null) {
-      localStorage.setItem('theme', 'dark');
+      localStorage.setItem('theme', 'light');
     }
   })();
 </script>
