@@ -1,6 +1,6 @@
 +++
-title = "John Abascal"
-date = "2025-09-01"
+title = "About"
+date = "2025-10-01"
 author = "John Abascal"
 +++
 
@@ -16,7 +16,7 @@ $john@website:~% open me.png && cat about.md
 {{< /highlight >}}
 
 
-{{< figure src="img/me.png" alt="Portrait of Me" position="left" style="max-width: 72px !important; width: 72px !important; border-radius: 8px;" >}}
+{{< figure src="img/me.png" alt="Portrait of Me" position="left" style="max-width: 64px !important; width: 64px !important; border-radius: 8px;" >}}
 
 
 # Hi 👋
