@@ -19,46 +19,51 @@ author = "John Abascal"
 
 # Work Experience
 
-### Google - *Cambridge, MA* | *Oct. 2024 - Aug. 2025*
-**Student Researcher** 
+# Work Experience
 
-### LinkedIn - *New York, NY* | *Jun. 2024 - Aug. 2024*
-**Applied Research Intern** 
+### Google <span style="float: right; font-size: 0.8em; font-weight: normal; color: #555;">*Oct. 2024 - Aug. 2025*</span>
+**Student Researcher** | *Cambridge, MA*
+- Topic: Machine Unlearning
 
-### LinkedIn - *Mountain View, CA* | *Jun. 2023 - Aug. 2023*
-**Applied Research Intern** 
+### LinkedIn <span style="float: right; font-size: 0.8em; font-weight: normal; color: #555;">*Jun. 2024 - Aug. 2024*</span>
+**Applied Research Intern** | *New York, NY*
+- Topic: Training Data Extraction from LLMs
 
-### Intuit - *Mountain View, CA* | *May 2021 - Aug. 2021*
-**Software Engineering Intern** 
+### LinkedIn <span style="float: right; font-size: 0.8em; font-weight: normal; color: #555;">*Jun. 2023 - Aug. 2023*</span>
+**Applied Research Intern** | *Mountain View, CA*
+- Topic: Differential Privacy for Analytics
 
-### Intuit - *Mountain View, CA* | *May 2020 - Aug. 2020*
-**Software Engineering Intern** 
+### Intuit <span style="float: right; font-size: 0.8em; font-weight: normal; color: #555;">*May 2021 - Aug. 2021*</span>
+**Software Engineering Intern** | *Mountain View, CA*
 
-### NewSci Labs  - *Tallahassee, FL* | *Aug. 2019 - May 2021*
-**Machine Learning Intern** 
+### Intuit <span style="float: right; font-size: 0.8em; font-weight: normal; color: #555;">*May 2020 - Aug. 2020*</span>
+**Software Engineering Intern** | *Mountain View, CA*
+
+### NewSci Labs <span style="float: right; font-size: 0.8em; font-weight: normal; color: #555;">*Aug. 2019 - May 2021*</span>
+**Machine Learning Intern** | *Tallahassee, FL*
 
 # Papers
 
 ### 2025
 - **Should We Forget About Certified Unlearning? Evaluating the Pitfalls of Noisy Methods**
-  John Abascal, Eleni Triantafillou, Matthew Jagielski, Nicole Mitchell, Peter Kairouz
+  **John Abascal**, Eleni Triantafillou, Matthew Jagielski, Nicole Mitchell, Peter Kairouz
   
 - **Black-Box Privacy Attacks on Shared Representations in Multitask Learning**  
-  John Abascal, Nicolás Berrios, Alina Oprea, Jonathan Ullman, Adam Smith, Matthew Jagielski  
+  **John Abascal**, Nicolás Berrios, Alina Oprea, Jonathan Ullman, Adam Smith, Matthew Jagielski  
   *arXiv preprint*
 
 ### 2024
 - **Phantom: General Trigger Attacks on Retrieval Augmented Language Generation**  
-  Harsh Chaudhari, Giorgio Severi, John Abascal, Matthew Jagielski, Christopher A. Choquette-Choo, Milad Nasr, Cristina Nita-Rotaru, Alina Oprea  
+  Harsh Chaudhari, Giorgio Severi, **John Abascal**, Matthew Jagielski, Christopher A. Choquette-Choo, Milad Nasr, Cristina Nita-Rotaru, Alina Oprea  
   *arXiv preprint*
 
 - **TMI! Finetuned Models Leak Private Information from their Pretraining Data**  
-  John Abascal, Stanley Wu, Alina Oprea, Jonathan Ullman  
+  **John Abascal**, Stanley Wu, Alina Oprea, Jonathan Ullman  
   *Proceedings on Privacy Enhancing Technologies (PETS) 2024*
 
 ### 2023
 - **SNAP: Efficient Extraction of Private Properties with Poisoning**  
-  Harsh Chaudhari, John Abascal, Alina Oprea, Matthew Jagielski, Florian Tramèr, Jonathan Ullman  
+  Harsh Chaudhari, **John Abascal**, Alina Oprea, Matthew Jagielski, Florian Tramèr, Jonathan Ullman  
   *IEEE Symposium on Security and Privacy (S&P) 2023*
 
 # Skills
