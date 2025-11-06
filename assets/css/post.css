@@ -1,5 +1,9 @@
 .index-content {
-  margin: 25px 0;
+  margin: 0 0 25px 0;
+}
+
+.index-content > *:first-child {
+  margin-top: 0;
 }
 
 .framed {

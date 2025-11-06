@@ -1,9 +1,8 @@
 +++
-title = "About"
+title = "John Abascal"
 date = "2025-10-01"
 author = "John Abascal"
 +++
-
 
 {{< highlight zsh >}}
 $john@website:~% whoami
