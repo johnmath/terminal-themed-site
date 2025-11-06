@@ -17,7 +17,7 @@ author = "John Abascal"
 - Honors Thesis: *A Standardized Approach to Studying the Double Descent Phenomenon* 
 - Advisors: [Alec Kercheval](https://www.math.fsu.edu/~kercheva/) and [Nathan Crock](https://www.sc.fsu.edu/people?uid=ndc08)
 
-# Work Experience
+----
 
 # Work Experience
 
@@ -28,7 +28,7 @@ author = "John Abascal"
 ### LinkedIn <span style="float: right; font-size: 0.8em; font-weight: normal; color: #555;">*Jun. 2024 - Aug. 2024*</span>
 **Applied Research Intern** | *New York, NY*
 - Topic: Training Data Extraction from LLMs
-
+----
 ### LinkedIn <span style="float: right; font-size: 0.8em; font-weight: normal; color: #555;">*Jun. 2023 - Aug. 2023*</span>
 **Applied Research Intern** | *Mountain View, CA*
 - Topic: Differential Privacy for Analytics
@@ -41,6 +41,8 @@ author = "John Abascal"
 
 ### NewSci Labs <span style="float: right; font-size: 0.8em; font-weight: normal; color: #555;">*Aug. 2019 - May 2021*</span>
 **Machine Learning Intern** | *Tallahassee, FL*
+
+----
 
 # Papers
 
@@ -66,12 +68,14 @@ author = "John Abascal"
   Harsh Chaudhari, **John Abascal**, Alina Oprea, Matthew Jagielski, Florian Tramèr, Jonathan Ullman  
   *IEEE Symposium on Security and Privacy (S&P) 2023*
 
+----
 # Skills
 
-**Programming Languages**: Python, C++, C, Swift, SQL, JavaScript,   
+**Programming Languages**: Python, C++, C, Swift, SQL, JavaScript   
 **Tools and Technologies**: PyTorch, TensorFlow, scikit-learn, Hugging Face, NumPy, Pandas, GCP, Linux, UIKit
 **Lanugages**: English, Spanish
 
+----
 # Contact
 
 **Email**: abascal.j@northeastern.edu  
