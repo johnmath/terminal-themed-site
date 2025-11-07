@@ -15,7 +15,7 @@ $john@website:~% open me.png && cat about.md
 {{< /highlight >}}
 
 
-{{< figure src="img/me.png" alt="Portrait of Me" position="left" style="max-width: 32px !important; width: px !important; border-radius: 8px !important;" >}}
+{{< figure src="img/me.png" alt="Portrait of Me" position="left" style="max-width: 128px !important; width: 128px !important; border-radius: 8px !important;" >}}
 
 
 # Hi 👋
