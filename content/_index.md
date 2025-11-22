@@ -20,6 +20,8 @@ $john@website:~% open me.png && cat about.md
 
 # Hi 👋
 
+{{< social-links github="https://github.com/johnmath" linkedin="https://www.linkedin.com/in/johnabascal/" scholar="https://scholar.google.com/citations?user=3jYQ3FsAAAAJ&hl=en" >}}
+
 I am a fifth-year Computer Science PhD student at Northeastern University, advised by [Jonathan Ullman](https://www.ccs.neu.edu/home/jullman/) and [Alina Oprea](https://www.ccs.neu.edu/home/alina/). Prior to my PhD, I completed my B.S. in Pure Math at Florida State University, where I wrote my honors thesis under the guidance of [Alec Kercheval](https://www.math.fsu.edu/~kercheva/) and [Nathan Crock](https://www.sc.fsu.edu/people?uid=ndc08)
 
 My research primarily focuses on trustworthy machine learning, with an emphasis on empirically measuring privacy and security risks of deep learning models 🔒. More broadly, I am interested in topics such as memorization, differential privacy, adversarial machine learning, and AI safety.

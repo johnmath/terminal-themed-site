@@ -529,6 +529,34 @@ iframe[src*="youtube.com"] {
   transition: color 0.3s ease;
 }
 
+/* Social links styling */
+.social-links {
+  display: flex;
+  gap: 16px;
+  margin: 20px 0;
+  align-items: center;
+}
+
+.social-link {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--accent);
+  text-decoration: none;
+  transition: all 0.2s ease;
+}
+
+.social-link:hover {
+  color: var(--foreground);
+  transform: translateY(-2px);
+}
+
+.social-link svg {
+  width: 24px;
+  height: 24px;
+  stroke-width: 2;
+}
+
 @media (max-width: 684px) {
   :root {
     --font-size: 0.95rem;
