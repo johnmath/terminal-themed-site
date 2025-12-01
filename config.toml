@@ -16,6 +16,16 @@ pagination.pagerSize = 5
   centerTheme = false
   showLanguageSelector = false
   favicon = "favicon.png"
+  author = "John Abascal"
+  description = "John Abascal - Computer Science PhD Student at Northeastern University specializing in machine learning, privacy, and security."
+  
+[params.social]
+  linkedin = "johnabascal"
+  github = "johnmath"
+  googlescholar = "3jYQ3FsAAAAJ"
+  orcid = "0009-0005-5820-5476"
+  email = "abascal.j@northeastern.edu" 
+
 
 [languages]
   [languages.en]
@@ -24,7 +34,7 @@ pagination.pagerSize = 5
     [languages.en.params]
       subtitle = "Computer Science PhD Student at Northeastern University"
       keywords = "computer science, machine learning, privacy, differential privacy, PhD"
-      copyright = "© 2024 John Abascal"
+      copyright = "© 2025 John Abascal"
       menuMore = "Show more"
       readMore = "Read more"
       readOtherPosts = "Read other posts"
