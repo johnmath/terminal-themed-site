@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://johnmath.github.io/sitemap. xml
+Sitemap: https://johnmath.github.io/sitemap.xml
