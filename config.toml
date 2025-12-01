@@ -33,7 +33,7 @@ pagination.pagerSize = 5
     
     [languages.en.params]
       subtitle = "Computer Science PhD Student at Northeastern University"
-      keywords = "computer science, machine learning, privacy, differential privacy, PhD"
+      keywords = "John Abascal, computer science, machine learning, privacy, differential privacy, PhD, Northeastern University, researcher, AI, security"
       copyright = "© 2025 John Abascal"
       menuMore = "Show more"
       readMore = "Read more"
