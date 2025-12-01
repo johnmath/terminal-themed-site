@@ -15,6 +15,7 @@ pagination.pagerSize = 5
   fullWidthTheme = false
   centerTheme = false
   showLanguageSelector = false
+  favicon = "favicon.png"
 
 [languages]
   [languages.en]
