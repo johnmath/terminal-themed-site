@@ -1,3 +1,18 @@
+<!-- Author Information -->
+<meta name="author" content="John Abascal" />
+<link rel="me" href="https://github.com/johnmath" />
+<link rel="me" href="https://www.linkedin.com/in/johnabascal" />
+<link rel="me" href="https://scholar.google.com/citations?user=3jYQ3FsAAAAJ" />
+<link rel="me" href="https://orcid. org/0009-0005-5820-5476" />
+{{ with $. Site.Params.social.email }}
+<link rel="me" href="mailto:{{ . }}" />
+{{ end }}
+
+<!-- Additional Profile Meta Tags -->
+<meta property="profile:first_name" content="John" />
+<meta property="profile:last_name" content="Abascal" />
+<meta property="profile:username" content="johnmath" />
+
 <!-- Structured Data -->
 <script type="application/ld+json">
 {
@@ -39,8 +54,7 @@
       "occupationLocation": {
         "@type": "Organization",
         "name": "Northeastern University"
-      },
-      "estimatedSalary": null
+      }
     },
     {
       "@type": "Occupation",
@@ -68,7 +82,7 @@
     }
   ],
   "knowsAbout": ["Computer Science", "Machine Learning", "Privacy", "Differential Privacy", "AI"],
-  "image": "https://johnabascal.com/img/me.png",
+  "image": "https://johnmath.github.io/profile-photo.jpg",
   "description": "Computer Science PhD Student at Northeastern University specializing in machine learning, privacy, and security."
 }
 </script>
