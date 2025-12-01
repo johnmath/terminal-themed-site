@@ -1,4 +1,98 @@
-<!--
-To add an extended head section, please create
-`layouts/partials/extended_head.html` in your Hugo directory.
--->
+<!-- Structured Data -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "John Abascal",
+  "url": "https://johnmath.github.io/",
+  "sameAs": [
+    "https://www.linkedin.com/in/johnabascal",
+    "https://scholar.google.com/citations?user=3jYQ3FsAAAAJ&hl=en",
+    "https://github.com/johnmath",
+    "https://orcid.org/0009-0005-5820-5476"
+  ],
+  "jobTitle": "PhD Student",
+  "worksFor": {
+    "@type": "Organization",
+    "name": "Northeastern University"
+  },
+  "alumniOf": {
+    "@type": "Organization",
+    "name": "Florida State University"
+  },
+  "hasCredential": [
+    {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "degree",
+      "name": "Bachelor of Science in Mathematics",
+      "educationalLevel": "Undergraduate",
+      "recognizedBy": {
+        "@type": "Organization",
+        "name": "Florida State University"
+      }
+    }
+  ],
+  "hasOccupation": [
+    {
+      "@type": "Occupation",
+      "name": "PhD Student",
+      "occupationLocation": {
+        "@type": "Organization",
+        "name": "Northeastern University"
+      },
+      "estimatedSalary": null
+    },
+    {
+      "@type": "Occupation",
+      "name": "Software Engineer Intern",
+      "occupationLocation": {
+        "@type": "Organization",
+        "name": "Intuit"
+      }
+    },
+    {
+      "@type": "Occupation",
+      "name": "Applied Research Intern",
+      "occupationLocation": {
+        "@type": "Organization",
+        "name": "LinkedIn"
+      }
+    },
+    {
+      "@type": "Occupation",
+      "name": "Student Researcher",
+      "occupationLocation": {
+        "@type": "Organization",
+        "name": "Google"
+      }
+    }
+  ],
+  "knowsAbout": ["Computer Science", "Machine Learning", "Privacy", "Differential Privacy", "AI"],
+  "image": "https://johnabascal.com/img/me.png",
+  "description": "Computer Science PhD Student at Northeastern University specializing in machine learning, privacy, and security."
+}
+</script>
+
+<!-- Organization Structured Data -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ProfilePage",
+  "mainEntity": {
+    "@type": "Person",
+    "name": "John Abascal",
+    "alternateName": "John A. Abascal",
+    "identifier": "0009-0005-5820-5476",
+    "affiliation": {
+      "@type": "Organization",
+      "name": "Northeastern University",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Boston",
+        "addressRegion": "MA",
+        "addressCountry": "US"
+      }
+    }
+  }
+}
+</script>
